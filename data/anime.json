@@ -14,5 +14,19 @@
       "createdAt": 1794326012462
     }
   },
-  "hentai": {}
+  "hentai": {
+    "ep_mwawhocps5hs": {
+      "title": "MY MOTHER : HINDI DUB",
+      "poster": "https://instasize.com/api/image/e797c8576abf1564c30af1ca361c84eaa1d72697c8936a767d9e1c2dba85fce0.jpeg",
+      "type": "Anime",
+      "season": 1,
+      "episode": 1,
+      "qualities": {
+        "1080p": "https://seed167b.bitchute.com/goFeiceMbQ4K/7WAgxlX45rGz.mp4"
+      },
+      "mp4Url": "",
+      "format": "mp4",
+      "createdAt": 1794327879048
+    }
+  }
 }
