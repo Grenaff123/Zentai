@@ -1,19 +1,5 @@
 {
-  "anime": {
-    "ep_mwavdo35psvn": {
-      "title": "G",
-      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVWIvadlfg8EyRhmNtQemsK4QEirsjWdW-d2_MBK9bQw&s=10",
-      "type": "Anime",
-      "season": 1,
-      "episode": 1,
-      "qualities": {
-        "Auto": "https://rumble.com/hls-vod/8XVJxWQcafY/playlist.m3u8"
-      },
-      "mp4Url": "",
-      "format": "m3u8",
-      "createdAt": 1794326012462
-    }
-  },
+  "anime": {},
   "hentai": {
     "ep_mwawhocps5hs": {
       "title": "MY MOTHER : HINDI DUB",
