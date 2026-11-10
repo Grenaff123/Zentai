@@ -1,5 +1,19 @@
 {
-  "anime": {},
+  "anime": {
+    "ep_mway14jrc1tt": {
+      "title": "The Frontier Lord Begins with Zero Subjects",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWI0NGFkMDEtOThjOC00NTQ4LTg4OTMtN2ZkMmMxZmM3OGIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "type": "Anime",
+      "season": 1,
+      "episode": 1,
+      "qualities": {
+        "480p": "https://seed163.bitchute.com/goFeiceMbQ4K/BlkJ9LS3H6st.mp4"
+      },
+      "mp4Url": "",
+      "format": "mp4",
+      "createdAt": 1794330466118
+    }
+  },
   "hentai": {
     "ep_mwawhocps5hs": {
       "title": "MY MOTHER : HINDI DUB",
