@@ -40,6 +40,19 @@
       "mp4Url": "",
       "format": "m3u8",
       "createdAt": 1794330543763
+    },
+    "ep_mway39pslc4l": {
+      "title": "Mistreated Bride (English Subbed)",
+      "poster": "https://imgs.search.brave.com/dh60oSGQ_47YWklFRmReYxPIaklbs3g0GMJwJTP5yMM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pYy12/dC1uc3MueGhjZG4u/Y29tL2EvT",
+      "type": "Anime",
+      "season": 1,
+      "episode": 2,
+      "qualities": {
+        "360p": "https://rumble.com/hls-vod/TYCHaTXkwLY/playlist.m3u8"
+      },
+      "mp4Url": "",
+      "format": "m3u8",
+      "createdAt": 1794330566128
     }
   }
 }
