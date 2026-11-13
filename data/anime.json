@@ -155,6 +155,19 @@
       "mp4Url": "",
       "format": "m3u8",
       "createdAt": 1794602875533
+    },
+    "ep_mwfg8kol4vdq": {
+      "title": "Overgeared (S-1)",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3YWEzMDUtZTgyZS00YjUzLWJjNTktZThjZDM4OWQ1MWY1XkEyXkFqcGc@._V1_.jpg",
+      "type": "Anime",
+      "season": 1,
+      "episode": 6,
+      "qualities": {
+        "720p": "https://rumble.com/hls-vod/6Mv6BTStTaw/playlist.m3u8?esp=hd"
+      },
+      "mp4Url": "",
+      "format": "m3u8",
+      "createdAt": 1794602911413
     }
   },
   "hentai": {
