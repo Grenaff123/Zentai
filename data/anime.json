@@ -51,6 +51,19 @@
       "mp4Url": "",
       "format": "m3u8",
       "createdAt": 1794601493825
+    },
+    "ep_mwfffd4vxpi4": {
+      "title": "Tokyo revenger season 4",
+      "poster": "https://yourimageshare.com/ib/5K2NCpalIy.png",
+      "type": "Anime",
+      "season": 1,
+      "episode": 4,
+      "qualities": {
+        "720p": "https://rumble.com/hls-vod/uLV9aoWr1yY/playlist.m3u8?esp=hd"
+      },
+      "mp4Url": "",
+      "format": "m3u8",
+      "createdAt": 1794601548607
     }
   },
   "hentai": {
