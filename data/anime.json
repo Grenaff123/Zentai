@@ -85,7 +85,7 @@
       "season": 1,
       "episode": 1,
       "qualities": {
-        "720p": "https://rumble.com/hls-vod/66MUQhci36Q/playlist.m3u8?esp=hd"
+        "Auto": "https://rumble.com/hls-vod/66MUQhci36Q/playlist.m3u8?esp=hd"
       },
       "mp4Url": "",
       "format": "m3u8",
